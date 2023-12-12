@@ -4,3 +4,4 @@ Bulk add Watermark to images
 2] Adjust opacity, size and angle of text
 
 
+:)
